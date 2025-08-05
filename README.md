@@ -31,32 +31,32 @@ Join Us Now! https://t.me/GenesisStealer
 
   <div style="flex: 1;">
     <ul>
-      <li>🟩 Discord Tokens (Apps & Browsers)</li>
-      <li>🟩 Discord Injection <strong>(SOON)</strong></li>
-      <li>🟩 Cookies (Bypass App-Bound Decryption)</li>
-      <li>🟩 Discord Backup 2FA Code</li>
-      <li>🟩 Chrome Bypass Password</li>
-      <li>🟩 Collecting from +50 browsers</li>
-      <li>🟩 Passwords (+50 browsers)</li>
-      <li>🟩 Autofills (+50 browsers)</li>
-      <li>🟩 Wallets (Extensions & Apps)</li>
-      <li>🟩 Collecting +30 Wallets</li>
-      <li>🟩 Firefox Cookies (Waterfox, etc.)</li>
-      <li>🟩 Launcher Sessions (Epic Games, Telegram, Steam, Minecraft…)</li>
+      <li>🗂 Discord Tokens (Apps & Browsers)</li>
+      <li>🗂 Discord Injection <strong>(SOON)</strong></li>
+      <li>🗂 Cookies (Bypass App-Bound Decryption)</li>
+      <li>🗂 Discord Backup 2FA Code</li>
+      <li>🗂 Chrome Bypass Password</li>
+      <li>🗂 Collecting from +50 browsers</li>
+      <li>🗂 Passwords (+50 browsers)</li>
+      <li>🗂 Autofills (+50 browsers)</li>
+      <li>🗂 Wallets (Extensions & Apps)</li>
+      <li>🗂 Collecting +30 Wallets</li>
+      <li>🗂 Firefox Cookies (Waterfox, etc.)</li>
+      <li>🗂 Launcher Sessions (Epic Games, Telegram, Steam, Minecraft…)</li>
     </ul>
   </div>
 
   <div style="flex: 1;">
     <h2>🌐 Control Panel Features <span style="color:gray;"></span></h2>
     <ul>
-      <li>🟩 Screen Viewer</li>
-      <li>🟩 Chat Victim</li>
-      <li>🟩 Shell </li>
-      <li>🟩 Send Alerts </li>
-      <li>🟩 Discord Data </li>
-      <li>🟩 Control Panel</li>
-      <li>🟩 Download EXE</li>
-      <li>🟩 Re logs </li>
+      <li>💻 Screen Viewer</li>
+      <li>💻 Chat Victim</li>
+      <li>💻 Shell </li>
+      <li>💻 Send Alerts </li>
+      <li>💻 Discord Data </li>
+      <li>💻 Control Panel</li>
+      <li>💻 Download EXE</li>
+      <li>💻 Re logs </li>
     </ul>
   </div>
 
