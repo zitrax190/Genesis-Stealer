@@ -5,7 +5,7 @@ Join Us Now! https://t.me/GenesisStealer
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
     <div style="flex: 1;">
     <ul>
-<li>🟢 Fud from all av's</li>
+<li>🟢 Full Undetect from all av's </li>
   <li>
     <img src="https://i.imgur.com/ii0NFIi.png" alt="Exemple" width="300" />
   </li>
